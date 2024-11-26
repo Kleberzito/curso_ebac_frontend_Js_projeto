@@ -40,5 +40,10 @@ Este é um projeto simples de uma calculadora de média final, desenvolvido com 
 └── index.html
 ```
 
+## Deploy
+
+
+Você pode acessar a aplicação em funcionamento através deste <a href="https://klebercalculadorademedia.vercel.app/" target="_blank">link de deploy</a>.
+
 ## Contribuição
 Se você quiser contribuir com este projeto, sinta-se à vontade para fazer um fork do repositório e enviar um pull request.
